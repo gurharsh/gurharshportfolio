@@ -47,7 +47,7 @@ html,body{
     align-items:center;
     justify-content: space-between;
 }
-#place span,#place h4{
+#place span{
     font-size: 20px;
     font-weight: 600;
 }
